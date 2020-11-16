@@ -20,7 +20,7 @@ public class Base {
     public void launchApplication() throws MalformedURLException {
         DesiredCapabilities capabilities = new DesiredCapabilities();
         capabilities.setCapability("deviceName","Moto G6");
-        capabilities.setCapability("uid","ZF6222DZ3Q");
+        capabilities.setCapability("uid","XXXXXXX");
         capabilities.setCapability("platformName","Android");
         capabilities.setCapability("platformVersion","9");
 
